@@ -1,4 +1,4 @@
-37# 💫 About Me:
+# 💫 About Me:
 nvpebb (Egor)<br>InfoSec · C++ · Java · Python · Linux · DevOps<br><br>I work with security-focused infrastructure and software, mostly around Linux, C++ and distributed systems.<br>Most of my professional projects are under NDA, so I can't publish them here. I'm using this profile for open-source and personal projects.<br><br>🔬Currently working on<br>Coverage-guided grey-box fuzzing framework for C++ REST APIs<br>A research-oriented fuzzing framework with coverage feedback, corpus management, sanitizer integration and optional CI/CD support.<br><br>💻Interests<br>Systems programming, Application Security, Linux, Reverse Engineering, Infrastructure, Distributed Systems, Music
 
 
